@@ -1,0 +1,13 @@
+*.zst
+
+models/
+
+__pycache__/
+.vscode/
+.idea/
+
+venv/
+.venv/
+env/
+
+wb-review-dataset.csv
