@@ -132,4 +132,4 @@ python train_pytorch.py
 ```bash
 streamlit run app.py
 ```
-## Дополнительные файлы проекта(датасеты и прочее) - 
+## Дополнительные файлы проекта(датасеты и прочее) - https://drive.google.com/drive/folders/16rkLlDgRJTNHiMUuYOTxj6pBx22uCZ5_?usp=sharing
